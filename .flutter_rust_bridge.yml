@@ -1,5 +1,5 @@
 rust_input:
-  - native/src/api.rs
+  - src/api.rs
 dart_output:
   - lib/bridge_generated.dart
 c_output:
